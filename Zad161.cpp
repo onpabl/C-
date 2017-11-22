@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include <iostream>
 #include <ctime>
-// работа с матрицей, изменение размера, вывод, автозаполнение, вывод подматрицы
+// work with matri. Print, resize, print submatrix
 using namespace std;
 class matrix {
 private:
