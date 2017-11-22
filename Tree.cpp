@@ -1,6 +1,4 @@
-// Sabina.cpp: определяет точку входа для консольного приложения.
-//
-
+// сравнивает два дерева на равенство
 #include "stdafx.h"
 #include <iostream>
 #include <ctime>
